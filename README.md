@@ -83,30 +83,30 @@ Coming soon
 - []()
 - []()
 - []()
-     - []()
+     - [link]()
      - []()
 - []()
 - []()
 ####  Energy The Hague
-https://ckan.dataplatform.nl/dataset/energielabels-postcode-5-niveau-den-haag-2016/resource/17baa0b9-e819-4f0d-b0fe-f219aa4ee559
-https://ckan.dataplatform.nl/dataset/warmtekoudeopslagsystemen/resource/512860c7-cced-4189-affd-4dfb312db3d6
-https://ckan.dataplatform.nl/dataset/warmtekoudevoetafdruk/resource/02b284e7-aba2-4993-a923-86676871fd57
-https://ckan.dataplatform.nl/dataset/blokverwarming/resource/778451b4-bfbc-46d3-a5b9-08299a2f4376
-https://ckan.dataplatform.nl/dataset/tevervangenleidingendenhaag1/resource/1b392e4c-c72f-4409-818e-b79525c1516f
-https://ckan.dataplatform.nl/dataset/warmtenet-dh-2015112/resource/9a2963c1-b08e-45db-86a4-4ea78b85c930
-https://ckan.dataplatform.nl/dataset/warmteobjecten-dh3/resource/e1fcff0d-1974-46ef-9ef3-8da8d30a992f
-https://ckan.dataplatform.nl/dataset/riothermie-potentielepanden-den-haag-2016/resource/88cf3d2e-67d0-41d6-abee-2b6155749ef0
-https://ckan.dataplatform.nl/dataset/warmtenet-kansgebieden-denhaag-2016/resource/ca5086ea-5a91-469e-9139-f3be1b9afb72
-https://ckan.dataplatform.nl/dataset/stadsverwarming-dh/resource/ebeb6db8-28bd-4b6c-935f-49ba3e64701c
-https://ckan.dataplatform.nl/dataset/wko-negatief-advies/resource/4c056ea7-4a07-492f-8708-26eeb60fda35
+     - [link](https://ckan.dataplatform.nl/dataset/energielabels-postcode-5-niveau-den-haag-2016/resource/17baa0b9-e819-4f0d-b0fe-f219aa4ee559)
+     - [link](https://ckan.dataplatform.nl/dataset/warmtekoudeopslagsystemen/resource/512860c7-cced-4189-affd-4dfb312db3d6)
+     - [link](https://ckan.dataplatform.nl/dataset/warmtekoudevoetafdruk/resource/02b284e7-aba2-4993-a923-86676871fd57)
+     - [link](https://ckan.dataplatform.nl/dataset/blokverwarming/resource/778451b4-bfbc-46d3-a5b9-08299a2f4376)
+     - [link](https://ckan.dataplatform.nl/dataset/tevervangenleidingendenhaag1/resource/1b392e4c-c72f-4409-818e-b79525c1516f)
+     - [link](https://ckan.dataplatform.nl/dataset/warmtenet-dh-2015112/resource/9a2963c1-b08e-45db-86a4-4ea78b85c930)
+     - [link](https://ckan.dataplatform.nl/dataset/warmteobjecten-dh3/resource/e1fcff0d-1974-46ef-9ef3-8da8d30a992f)
+     - [link](https://ckan.dataplatform.nl/dataset/riothermie-potentielepanden-den-haag-2016/resource/88cf3d2e-67d0-41d6-abee-2b6155749ef0)
+     - [link](https://ckan.dataplatform.nl/dataset/warmtenet-kansgebieden-denhaag-2016/resource/ca5086ea-5a91-469e-9139-f3be1b9afb72)
+     - [link](https://ckan.dataplatform.nl/dataset/stadsverwarming-dh/resource/ebeb6db8-28bd-4b6c-935f-49ba3e64701c)
+     - [link](https://ckan.dataplatform.nl/dataset/wko-negatief-advies/resource/4c056ea7-4a07-492f-8708-26eeb60fda35)
  
 ####  Geothermal Energy potential The Hague
-https://ckan.dataplatform.nl/dataset/geothermie-positief-advies-den-haag/resource/b1f08565-b031-41d4-9467-b78c9ee55d61
-https://ckan.dataplatform.nl/dataset/geschiktheid-geothermie-den-haag-2013/resource/b001f1b1-d36a-4f1a-924c-4c418ed0c008
+     - [link](https://ckan.dataplatform.nl/dataset/geothermie-positief-advies-den-haag/resource/b1f08565-b031-41d4-9467-b78c9ee55d61)
+     - [link](https://ckan.dataplatform.nl/dataset/geschiktheid-geothermie-den-haag-2013/resource/b001f1b1-d36a-4f1a-924c-4c418ed0c008)
  
 ####  Electricity
-https://ckan.dataplatform.nl/dataset/lichtmasten1/resource/f015483b-025b-4a4b-8ab4-3ace5c10d150
-https://ckan.dataplatform.nl/dataset/lichtmasten/resource/3ce26c9f-c632-4347-950b-ff6081d09c38
-https://ckan.dataplatform.nl/dataset/armaturen/resource/1887141e-5e5b-42ea-a087-9db85d605628
-https://ckan.dataplatform.nl/dataset/kabels/resource/5820cd51-ca24-4942-aaa2-20d75d9152ae
+     - [link](https://ckan.dataplatform.nl/dataset/lichtmasten1/resource/f015483b-025b-4a4b-8ab4-3ace5c10d150)
+     - [link](https://ckan.dataplatform.nl/dataset/lichtmasten/resource/3ce26c9f-c632-4347-950b-ff6081d09c38)
+     - [link](https://ckan.dataplatform.nl/dataset/armaturen/resource/1887141e-5e5b-42ea-a087-9db85d605628)
+     - [link](https://ckan.dataplatform.nl/dataset/kabels/resource/5820cd51-ca24-4942-aaa2-20d75d9152ae)
 
