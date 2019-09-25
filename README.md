@@ -59,7 +59,6 @@ You can find information about economy, soil, land, boundaries, environment and 
 This guide is for a WFS because with it the data itself (Features, the F in WFS) is shared in accordance with an open standard. In a GIS application, for example, someone who is in Argentina can use this to do an analysis and make a map.
 
 ## Available data
-Coming soon
 
 - [Geothermie](https://atlas.zuid-holland.nl/GeoWeb54/index.html?viewer=Bodematlas)
 - [Geothermal heat pits PZH (raw)](http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/258F1008-8AF3-401E-982A-13D8BB551094) [(WFS)](https://geoservices.zuid-holland.nl/arcgis/services/Bodem/Bodem_energie_WFS/MapServer/WFSServer?&request=GetCapabilities&service=WFS)
