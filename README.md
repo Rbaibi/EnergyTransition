@@ -46,11 +46,10 @@ The participating team is asked to conduct the necessary research and build a pr
 - [Greenhouses](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 *Search for Functioneel gebied (point) with attribute kassengebied.
 
--  Energy The Hague
-     - [link](https://ckan.dataplatform.nl/dataset/energielabels-postcode-5-niveau-den-haag-2016/resource/17baa0b9-e819-4f0d-b0fe-f219aa4ee559)
-     - [link](https://ckan.dataplatform.nl/dataset/warmtekoudeopslagsystemen/resource/512860c7-cced-4189-affd-4dfb312db3d6)
-     - [link](https://ckan.dataplatform.nl/dataset/warmtekoudevoetafdruk/resource/02b284e7-aba2-4993-a923-86676871fd57)
-     - [link](https://ckan.dataplatform.nl/dataset/blokverwarming/resource/778451b4-bfbc-46d3-a5b9-08299a2f4376)
+- [Energielabels Den Haag 2016](https://ckan.dataplatform.nl/dataset/energielabels-postcode-5-niveau-den-haag-2016/resource/17baa0b9-e819-4f0d-b0fe-f219aa4ee559)
+- [Warmte-koude opslag systemen](https://ckan.dataplatform.nl/dataset/warmtekoudeopslagsystemen/resource/512860c7-cced-4189-affd-4dfb312db3d6)
+- [Warmte-koudevoetafdruk](https://ckan.dataplatform.nl/dataset/warmtekoudevoetafdruk/resource/02b284e7-aba2-4993-a923-86676871fd57)
+- [Blokverwarming Den Haag](https://ckan.dataplatform.nl/dataset/blokverwarming/resource/778451b4-bfbc-46d3-a5b9-08299a2f4376)
      - [link](https://ckan.dataplatform.nl/dataset/tevervangenleidingendenhaag1/resource/1b392e4c-c72f-4409-818e-b79525c1516f)
      - [link](https://ckan.dataplatform.nl/dataset/warmtenet-dh-2015112/resource/9a2963c1-b08e-45db-86a4-4ea78b85c930)
      - [link](https://ckan.dataplatform.nl/dataset/warmteobjecten-dh3/resource/e1fcff0d-1974-46ef-9ef3-8da8d30a992f)
