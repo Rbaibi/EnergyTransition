@@ -60,14 +60,16 @@ The participating team is asked to conduct the necessary research and build a pr
      - [link](https://ckan.dataplatform.nl/dataset/wko-negatief-advies/resource/4c056ea7-4a07-492f-8708-26eeb60fda35)
  
 - Geothermal Energy potential The Hague
-     - [link](https://ckan.dataplatform.nl/dataset/geothermie-positief-advies-den-haag/resource/b1f08565-b031-41d4-9467-b78c9ee55d61)
-     - [link](https://ckan.dataplatform.nl/dataset/geschiktheid-geothermie-den-haag-2013/resource/b001f1b1-d36a-4f1a-924c-4c418ed0c008)
+     - [geothermie positief advies den haag](https://ckan.dataplatform.nl/dataset/geothermie-positief-advies-den-haag/resource/b1f08565-b031-41d4-9467-b78c9ee55d61)
+     - [geschiktheid geothermie den haag 2013](https://ckan.dataplatform.nl/dataset/geschiktheid-geothermie-den-haag-2013/resource/b001f1b1-d36a-4f1a-924c-4c418ed0c008)
  
 - Electricity
-     - [link](https://ckan.dataplatform.nl/dataset/lichtmasten1/resource/f015483b-025b-4a4b-8ab4-3ace5c10d150)
-     - [link](https://ckan.dataplatform.nl/dataset/lichtmasten/resource/3ce26c9f-c632-4347-950b-ff6081d09c38)
-     - [link](https://ckan.dataplatform.nl/dataset/armaturen/resource/1887141e-5e5b-42ea-a087-9db85d605628)
-     - [link](https://ckan.dataplatform.nl/dataset/kabels/resource/5820cd51-ca24-4942-aaa2-20d75d9152ae)
+     - [lichtmasten in Delft](https://ckan.dataplatform.nl/dataset/lichtmasten1/resource/f015483b-025b-4a4b-8ab4-3ace5c10d150)
+     - [Lichtmasten in Den Haag](https://ckan.dataplatform.nl/dataset/lichtmasten/resource/3ce26c9f-c632-4347-950b-ff6081d09c38)
+     - [Armaturen en lampen lichtnet Den Haag](https://ckan.dataplatform.nl/dataset/armaturen/resource/1887141e-5e5b-42ea-a087-9db85d605628)
+     - [Kabels lichtnet Den Haag
+
+](https://ckan.dataplatform.nl/dataset/kabels/resource/5820cd51-ca24-4942-aaa2-20d75d9152ae)
 
 ## Public Geodata South Holland
 
