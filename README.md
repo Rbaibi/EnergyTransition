@@ -11,8 +11,8 @@ There is lack of information of the performance and return of investment (ROI) o
 - Aquathermie energy from water, is being [suggested](https://www.zuid-holland.nl/actueel/nieuws/mei-2019/huizen-verwarmen/) as a potential energy source of the future. This involves creating heat energy networks thus aiming at industrial symbiosis. What is a feasible plan to deliver to policymakers in this regard? Can it involve local energy communities?
 
 - What combinations of energy sources and locations have the highest efficiency and Return on Investment from but not limiting to:
-     - Wind turbines in land + at sea
-     - Solar Panels in cities + farmland
+     - Wind turbines in land and at sea
+     - Solar Panels in cities and farmland
      - Geothermal
      - Long term energy storage with water
      
